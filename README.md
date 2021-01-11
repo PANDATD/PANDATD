@@ -12,11 +12,11 @@ Contact No : +91 7745014673<br> </p>
 ### Web Technologies:
    HTML5 ,CSS 
 ### Scripting: 
-   bash basics .
+   Basics of bash scripting 
 ### IDE: 
-   vs code, atom, sublime , micro. 
+   VS code, atom, sublime , micro, Jupyter, colabs ,VScodium.
 ### Database: 
-   My SQL,Sqlite3 
+   MySQL,Sqlite3,PostgresSql
 ### Operating System:  
    Windows 7, Windows 10, Ubuntu 18.4,,ubuntu 20.04, parrot os ,pop!os ,kali linux , tails os, fedora workstation .
 ### DevOps : 

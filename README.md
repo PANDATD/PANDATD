@@ -10,11 +10,13 @@ Contact No : +91 7745014673<br> </p>
 ## Technical Skill:
 -----
 ### Programming Languages: 
-   C, C++ (Basics)   Python 3 (enthusiasts)
+    C++ (Basics)   Python 3 (enthusiasts)
+### Learning Practicing: 
+    Go Lang and python's numpy, pandas, matplotlib, library
 ### Web Technologies:
    HTML5 ,CSS 
 ### Scripting: 
-   Basics of bash scripting 
+   Not only Basics of bash scripting , but Python scripting
 ### IDE: 
    VS code, atom, sublime , micro, Jupyter, colabs ,VScodium.
 ### Database: 

@@ -25,7 +25,8 @@ Contact No : +91 7745014673<br> </p>
    Windows 7, Windows 10, Ubuntu 18.4,,ubuntu 20.04, parrot os ,pop!os ,kali linux , tails os, fedora workstation .
 ### DevOps : 
    Git version control 
-   
+ 
+[![Gitter](https://badges.gitter.im/python-Enthusist/community.svg)](https://gitter.im/python-Enthusist/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 -------
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pandatd&show_icons=true&theme=radical)

@@ -1,5 +1,6 @@
 
-# Hi there ,<br> Im Tejas dixit 
+# Hi there ,<br> I'm Tejas dixit 
+
 ```py
 Akashwani , Hadapsar
 pune 411028
@@ -22,7 +23,7 @@ Contact No : +91 7745014673
 ### IDE: 
    VS code, atom, sublime , micro, Jupyter, colabs ,VScodium.
 ### Database: 
-   MySQL,Sqlite3,PostgresSql
+   MySQL,Sqlite3.
 ### Operating System:  
    Windows 7, Windows 10, Ubuntu 18.4,,ubuntu 20.04, parrot os ,pop!os ,kali linux , tails os, fedora workstation .
 ### DevOps : 

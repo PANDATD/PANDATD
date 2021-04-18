@@ -1,9 +1,11 @@
 
 # Hi there ,<br> Im Tejas dixit 
-<p>Akashwani , Hadapsar<br> 
-pune 411028<br>
-E-mail : tejasdixit17@gmail.com ,pandatd@protonmail.com <br>
-Contact No : +91 7745014673<br> </p>
+```py
+Akashwani , Hadapsar
+pune 411028
+E-mail : tejasdixit17@gmail.com ,pandatd@protonmail.com 
+Contact No : +91 7745014673
+```
 
 
 

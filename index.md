@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/PANDATD/PANDATD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Hi there ,<br> I'm Tejas dixit 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```py
+Akashwani , Hadapsar
+pune 411028
+E-mail : tejasdixit17@gmail.com ,pandatd@protonmail.com 
+Contact No : +91 7745014673
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PANDATD/PANDATD/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Technical Skill:
+-----
+### Programming Languages: 
+    C++ (Basics)   Python 3 (enthusiasts)
+### Learning Practicing: 
+    Go Lang and python's numpy, pandas, matplotlib, library
+### Web Technologies:
+   HTML5 ,CSS 
+### Scripting: 
+   Not only Basics of bash scripting , but Python scripting
+### IDE: 
+   VS code, atom, sublime , micro, Jupyter, colabs ,VScodium.
+### Database: 
+   MySQL,Sqlite3.
+### Operating System:  
+   Windows 7, Windows 10, Ubuntu 18.4,,ubuntu 20.04, parrot os ,pop!os ,kali linux , tails os, fedora workstation .
+### DevOps : 
+   Git version control 
+ 
+[![Gitter](https://badges.gitter.im/python-Enthusist/community.svg)](https://gitter.im/python-Enthusist/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+-------
 
-### Support or Contact
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pandatd&show_icons=true&theme=radical)
+      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandatd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-----

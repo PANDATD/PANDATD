@@ -20,6 +20,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Basics of PANDAS  Module](https://medium.com/coddersclub/basics-of-pandas-module-16859bbe2dab?source=rss-fe7ea0a0ec9e------2)
+- [How to send emails using python ?](https://medium.com/coddersclub/how-to-send-emails-using-python-7e2098157831?source=rss-fe7ea0a0ec9e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

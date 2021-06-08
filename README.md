@@ -1,4 +1,4 @@
-[![CI](https://github.com/PANDATD/PANDATD/actions/workflows/blank.yml/badge.svg)](https://github.com/PANDATD/PANDATD/actions/workflows/blank.yml)
+
 <h1 align="center">Hi 👋, I'm Mr Tejas Vinakyant Dixit</h1>
 <h3 align="center">A passionate backend developer and Linux,Python and Data science enthusiasts from India</h3>
 

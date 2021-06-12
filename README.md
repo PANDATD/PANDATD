@@ -45,3 +45,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandatd&show_icons=true&locale=en" alt="pandatd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandatd&" alt="pandatd" /></p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yxxxfzqvxrjzx3sjipsq7n5efe&width={width})

@@ -26,7 +26,6 @@
 - [Features of Python Programming Language.](https://medium.com/coddersclub/features-of-python-programming-language-75a8c43a83be?source=rss-fe7ea0a0ec9e------2)
 <!-- BLOG-POST-LIST:END -->
 
-<button type="button" href="https://www.buymeacoffee.com/pandatd">Buy Me Coffee</button>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">

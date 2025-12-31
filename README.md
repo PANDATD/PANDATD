@@ -2,6 +2,8 @@
   <img src="banner.svg" alt="Tejas Dixit – Backend Software Engineer" />
 </p>
 
+<br />
+
 <h1 align="center">Tejas Dixit</h1>
 
 <p align="center">
@@ -12,6 +14,9 @@
   Building backend services and workflow automation tools that improve reliability and reduce repetitive manual work.
 </p>
 
+<br />
+<br />
+
 ---
 
 ## 👋 About Me
@@ -21,6 +26,8 @@ I am a **backend-focused software engineer** with hands-on experience building *
 My work primarily involves **server-side development**, workflow automation, and designing systems that support content-heavy and business-driven platforms. I value **clean architecture**, separation of concerns, and maintainable code over over-engineered solutions.
 
 I am comfortable working in **Linux-based development environments** and supporting live, client-facing applications.
+
+<br />
 
 ---
 
@@ -33,18 +40,29 @@ I am comfortable working in **Linux-based development environments** and support
 - Performance-oriented web applications
 - Maintaining and supporting production systems
 
+<br />
+
 ---
 
 ## 🚀 Featured Work
 
-### Newsletter Workflow Automation Platform
+### 📰 Newsletter Workflow Automation Platform
+
 A Python Flask–based backend automation tool for creating, previewing, and exporting **production-ready, email-safe HTML newsletters**.
 
-🌐 Live Demo  
-https://vayuveg-newsletter-platform.onrender.com/
+<br />
 
-🔗 Source Code  
-https://github.com/pandatd/newsletter-workflow-automation
+<p>
+  🌐 <strong>Live Demo</strong><br />
+  https://vayuveg-newsletter-platform.onrender.com/
+</p>
+
+<p>
+  🔗 <strong>Source Code</strong><br />
+  https://github.com/pandatd/newsletter-workflow-automation
+</p>
+
+<br />
 
 ---
 
@@ -60,6 +78,8 @@ Alongside full-time work, I take up **freelance development projects** focused o
 - Payment gateway integration
 - Ongoing technical support for live client websites
 
+<br />
+
 ---
 
 ## 🛠 Tech Stack
@@ -70,17 +90,23 @@ Alongside full-time work, I take up **freelance development projects** focused o
 - HTML / CSS
 - SQL (SQLite, PostgreSQL)
 
+<br />
+
 **Tools & Environment**
 - Git & GitHub
 - Linux
 - Markdown
 - Gunicorn
 
+<br />
+
 **Core Strengths**
 - Backend Development
 - Automation
 - Workflow Optimization
 - Production Systems
+
+<br />
 
 ---
 
@@ -90,6 +116,8 @@ I occasionally write about Python and backend development on Medium:
 
 - https://medium.com/coddersclub
 
+<br />
+
 ---
 
 ## 📫 Contact
@@ -98,26 +126,8 @@ I occasionally write about Python and backend development on Medium:
 - **LinkedIn:** https://www.linkedin.com/in/tejasdixit  
 - **GitHub:** https://github.com/pandatd  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pandatd&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandatd&layout=compact&hide_border=true" />
-</p>
+<br />
 
 ---
 
-## ⭐ What This Profile Communicates
-
-- Backend-first engineering mindset  
-- Real-world automation experience  
-- Production-ready systems  
-- Clean, maintainable code practices  
-- Live deployed applications  
-
----
+<br />

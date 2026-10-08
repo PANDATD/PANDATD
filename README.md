@@ -1,133 +1,126 @@
 <p align="center">
-  <img src="banner.svg" alt="Tejas Dixit – Backend Software Engineer" />
+  <img src="banner.svg" alt="Tejas Dixit — Python Backend Developer" />
 </p>
-
-<br />
 
 <h1 align="center">Tejas Dixit</h1>
 
-<p align="center">
-  <strong>Backend Software Engineer</strong> · Python · Flask · Automation Systems
-</p>
+<p align="center"><strong>Python Backend Developer</strong> · Flask · SQL · Automation</p>
 
-<p align="center">
-  Building backend services and workflow automation tools that improve reliability and reduce repetitive manual work.
-</p>
-
-<br />
-<br />
+<p align="center">I build Python backend applications and automation workflows, with a focus on practical deployment, databases, testing, and maintainable code.</p>
 
 ---
 
-## 👋 About Me
+## About
 
-I am a **backend-focused software engineer** with hands-on experience building **Python and Flask–based backend systems** and automation tools used in real-world production workflows.
+I am a Python-focused developer working toward junior backend engineering roles.
 
-My work primarily involves **server-side development**, workflow automation, and designing systems that support content-heavy and business-driven platforms. I value **clean architecture**, separation of concerns, and maintainable code over over-engineered solutions.
+My strongest demonstrated areas are:
+- Python and Flask backend development
+- SQL and relational database fundamentals
+- Production-oriented automation
+- Linux-based application deployment
+- Testing and code-quality tooling
+- Git-based development workflows
 
-I am comfortable working in **Linux-based development environments** and supporting live, client-facing applications.
+I prefer learning by building, testing, documenting, and reviewing working code rather than collecting technology claims.
 
-<br />
+## Selected Work
 
----
+### Hostel Management Application
 
-## 🔧 What I Focus On
+A Flask hostel-management application with relational data modeling, CRUD workflows, authentication, password-reset handling, attendance/geofencing, and Alembic migrations.
 
-- Backend development using **Python & Flask**
-- Workflow and editorial automation
-- REST-style APIs and server-side processing
-- Newsletter and HTML email generation systems
-- Performance-oriented web applications
-- Maintaining and supporting production systems
+**Evidence:** [Repository](https://github.com/PANDATD/DES-Hostel-Mangment-) · [Live application](https://des-nivas.vercel.app)
 
-<br />
+> **Status:** Active development. The deployment/migration workflow is still being improved, so I do not present this as a finished production system.
 
----
+### SAJ Digital Nexus
 
-## 🚀 Featured Work
+A Flask-based website project using an application factory, Blueprints, environment-driven configuration, Pytest, Ruff, GitHub Actions CI, and Vercel deployment configuration.
 
-### 📰 Newsletter Workflow Automation Platform
+**Evidence:** [Repository](https://github.com/PANDATD/saj-digital-nexus) · [Live application](https://saj-digital-nexus.vercel.app)
 
-A Python Flask–based backend automation tool for creating, previewing, and exporting **production-ready, email-safe HTML newsletters**.
+### VAYUVEG Newsletter Platform
 
-<br />
+A Flask-based newsletter workflow application for building, previewing, and exporting email-safe HTML newsletters.
 
-<p>
-  🌐 <strong>Live Demo</strong><br />
-  https://vayuveg-newsletter-platform.onrender.com/
-</p>
+**Evidence:** [Repository](https://github.com/PANDATD/vayuveg-newsletter-platform)
 
-<p>
-  🔗 <strong>Source Code</strong><br />
-  https://github.com/pandatd/newsletter-workflow-automation
-</p>
+### Learning Lab
 
-<br />
+A structured, practice-driven repository where I develop Python backend engineering skills through implementation, testing, documentation, Git, and pull requests.
 
----
+Current learning areas include Python, Pydantic, SQL, SQLite, database fundamentals, and backend engineering foundations.
 
-## 💼 Freelance Services
-
-Alongside full-time work, I take up **freelance development projects** focused on backend-supported web systems.
-
-**Services include:**
-- Static and dynamic website development
-- Backend integration using Python and Flask
-- Website performance optimization & foundational technical SEO
-- WordPress customization and maintenance
-- Payment gateway integration
-- Ongoing technical support for live client websites
-
-<br />
+**Evidence:** [learning-lab](https://github.com/PANDATD/learning-lab)
 
 ---
 
-## 🛠 Tech Stack
+## Engineering Approach
 
-**Languages & Frameworks**
+I use a simple learning and development cycle:
+
+```text
+Understand
+   ↓
+Implement
+   ↓
+Test / Verify
+   ↓
+Document
+   ↓
+Review
+   ↓
+Commit
+   ↓
+Pull Request
+```
+
+I avoid adding abstractions or technologies simply because they are popular. I introduce them when the project or learning objective requires them.
+
+## Tools I Currently Use
+
+**Python / Backend**
 - Python
 - Flask
-- HTML / CSS
-- SQL (SQLite, PostgreSQL)
+- SQL
+- SQLite
+- PostgreSQL
+- Pydantic
 
-<br />
+**Testing / Quality**
+- Pytest
+- Ruff
+- MyPy
+- pre-commit
 
-**Tools & Environment**
-- Git & GitHub
+**Development**
+- uv
+- Git / GitHub
 - Linux
-- Markdown
 - Gunicorn
 
-<br />
+Technologies such as FastAPI, Docker, and more advanced CI/CD practices are areas I am continuing to develop rather than skills I currently claim as expert-level.
 
-**Core Strengths**
-- Backend Development
-- Automation
-- Workflow Optimization
-- Production Systems
+## Learning Lab
 
-<br />
+My `learning-lab` repository documents the progression from Python fundamentals through Pydantic and database foundations.
 
----
+The repository is intentionally a learning project, not a production application.
 
-## ✍️ Writing & Knowledge Sharing
+**[View the learning-lab →](https://github.com/PANDATD/learning-lab)**
 
-I occasionally write about Python and backend development on Medium:
+## Current Focus
 
-- https://medium.com/coddersclub
+- Strengthening PostgreSQL and database migration skills
+- Improving automated testing for backend applications
+- Building stronger API design fundamentals
+- Making deployment and configuration more reliable
+- Becoming able to explain my own architectural decisions without relying on generated answers
 
-<br />
+## Links
 
----
-
-## 📫 Contact
-
-- **Email:** tejasdixit17@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/tejasdixit  
-- **GitHub:** https://github.com/pandatd  
-
-<br />
-
----
-
-<br />
+- **Website:** https://tejasdixit.in
+- **LinkedIn:** https://www.linkedin.com/in/tejasdixit
+- **GitHub:** https://github.com/PANDATD
+- **Writing:** https://medium.com/coddersclub
